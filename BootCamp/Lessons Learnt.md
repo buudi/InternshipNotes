@@ -20,6 +20,8 @@ To Watch
 - when to use `Find()` and `FirstOrDefault()` - [Reddit](https://www.reddit.com/r/dotnet/comments/1bvjubg/employ_the_usage_of_find_instead_of/)
 - When reading docs: don't confuse between dotnet framework and dotnet core, and don't confuse between entity framework and entity framework core, its not the same bruhh
 	- prefix your class with `sealed` when you know for sure your class won't be inherited by any other class, which improves performance.
+- `using` statement automatically disposes of the connection in dbContext, read more about [`IDisposable`]()
+- C# primary constructor, is when we define the arguments right in the definition, the top line basically
 
 
 

@@ -39,13 +39,13 @@ REST is commonly preferred than other technologies as it uses less Bandwidth but
 A RESTful API uses commands to obtain resources. 
 example `GET /api/users`
 
-| HTTP verb | CRUD action             |
-| --------- | ----------------------- |
-| POST      | Create                  |
-| GET       | Read                    |
-| PUT       | Update (replace object) |
-| PATCH     | Update (patch object)   |
-| DELETE    | Delete                  |
+| **HTTP verb** | **CRUD action**         |
+| ------------- | ----------------------- |
+| POST          | Create                  |
+| GET           | Read                    |
+| PUT           | Update (replace object) |
+| PATCH         | Update (patch object)   |
+| DELETE        | Delete                  |
  >The state of a resource at any given timestamp is called a **resource representation.**
  
 ![[Pasted image 20240807154242.png]]
