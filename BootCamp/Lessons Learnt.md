@@ -19,6 +19,7 @@ To Watch
 - sometimes `IDENTITY(1,1)` jumps by 1000 when SQL Server gets rebooted - [StackOverflow](https://stackoverflow.com/questions/17587094/identity-column-value-suddenly-jumps-to-1001-in-sql-server)
 - when to use `Find()` and `FirstOrDefault()` - [Reddit](https://www.reddit.com/r/dotnet/comments/1bvjubg/employ_the_usage_of_find_instead_of/)
 - When reading docs: don't confuse between dotnet framework and dotnet core, and don't confuse between entity framework and entity framework core, its not the same bruhh
+	- prefix your class with `sealed` when you know for sure your class won't be inherited by any other class, which improves performance.
 
 
 
