@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a99e68b85c0e61d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f290c074fe2d9c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Uni Bro/Network Communication/Links and Resources.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0480f082248bc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49464276b5dfc0c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e6c452109aa518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66ad52eb4010adf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9177ad8983cfcca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94dd7fb8da79bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6195f792943e313a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uni Bro/Network Communication/Links and Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "96e6c452109aa518",
+  "lastOpenFiles": [
+    "General/Pointers.md",
+    "General/Reference Variables.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Arrays.md",
+    "General/idiot notes.md",
+    "General/enum.md",
+    "General/C++ STL.md"
+  ]
+}

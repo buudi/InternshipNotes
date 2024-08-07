@@ -1,0 +1,16 @@
+{
+  "fileDirections": {
+    "PMS/Stories/Rent Collection/old/Index.md": "auto",
+    "PMS/Stories/Rent Collection/old/Index_ar.md": "rtl",
+    "PMS/Stories/Handling Expenses/Flowchart_ar.md": "rtl",
+    "PMS/Stories/Generate Financial Reports/User Stories (ar).md": "rtl",
+    "PMS/Stories/Rent Collection/Scenarios_ar.md": "rtl",
+    "PMS/Stories/Manage Tenant Lifecycle/Index_ar.md": "rtl",
+    "PMS/Stories/Manage Users/Index_ar.md": "rtl"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
