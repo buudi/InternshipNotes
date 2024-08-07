@@ -1,157 +1,82 @@
 {
   "main": {
-    "id": "469e0ede8fd30080",
+    "id": "b71b97c75a6ed902",
     "type": "split",
     "children": [
       {
-        "id": "36680737ff4302c3",
+        "id": "eab54b5e98b33069",
         "type": "tabs",
-        "dimension": 50.04965243296922,
         "children": [
           {
-            "id": "922c680e28a0b29c",
+            "id": "e721ed1657f75587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/BootCamp/CRUD with EF Core.md",
+                "file": "BootCamp/RESTful API and API Design best practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e26dd78b6315766",
+            "id": "9fbdf259e524d168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/BootCamp/CRUD with EF Core.md",
+                "file": "BootCamp/Exercise 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a9a024ec9fb5125",
+            "id": "c0ba3f5bd97c32ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/Learning C sharp/strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f02529786d5a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Learning C sharp/dotnet/Controller Based/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac229b0f7f19de8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Learning C sharp/dotnet/Controller Based/Making CRUD in Controller based APIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d3bd1ec51114388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/BootCamp/Lessons Learnt.md",
+                "file": "BootCamp/Architectures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "5cf9c55332722023",
+        "id": "d71ec259a0a74a3c",
         "type": "tabs",
-        "dimension": 49.95034756703078,
         "children": [
           {
-            "id": "52339c525312829e",
+            "id": "90cd943b8a031ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship/BootCamp/CRUD with EF Core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e40dce557881b3fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Learning C sharp/LINQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b71b0dcbf38a760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/Learning C sharp/Nullable reference warning CS8604.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2f40c3b79cce2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internship/BootCamp/Async Await.md",
+                "file": "BootCamp/Async Await.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f218a4b821a63aaa",
+    "id": "403b0452637354fc",
     "type": "split",
     "children": [
       {
-        "id": "a0f40b83b34266a9",
+        "id": "d1e059e770434ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "2b24817eae39d78b",
+            "id": "3defd58332535cda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -161,12 +86,12 @@
             }
           },
           {
-            "id": "2f15861cadeb308e",
+            "id": "ee2f4ee7fd8d7024",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "dependency injection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +101,7 @@
             }
           },
           {
-            "id": "8b8b67f7b82575b1",
+            "id": "d267ebbe0feea74d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -187,35 +112,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.49999618530273
+    "width": 300
   },
   "right": {
-    "id": "1c20fed7b648c59e",
+    "id": "0e9645cd7aa7e6ee",
     "type": "split",
     "children": [
       {
-        "id": "3a7f2c2303f8a215",
+        "id": "aec6642c6633e6fd",
         "type": "tabs",
         "children": [
           {
-            "id": "1a21ed126f61577a",
+            "id": "757d8a815e1c12d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship/Learning C sharp/strings.md",
-                "collapseAll": true,
+                "file": "BootCamp/Exercise 1.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "919c807e5b266ab6",
+            "id": "3d365ca93afe5a5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BootCamp/RESTful API and API Design best practices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36e1243913cab424",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4dd0591a630ec01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BootCamp/Exercise 1.md"
+              }
+            }
+          },
+          {
+            "id": "d49a2dec0489dccd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -225,81 +183,31 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "967b249621c72a8f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Internship/Learning C sharp/strings.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4a9a024ec9fb5125",
+  "active": "9fbdf259e524d168",
   "lastOpenFiles": [
-    "Internship/Learning C sharp/numbers.md",
-    "Internship/Learning C sharp/Nullable reference warning CS8604.md",
-    "Internship/Learning C sharp/LINQ.md",
-    "Internship/Learning C sharp/index.md",
-    "Internship/Learning C sharp/CLI.md",
-    "Internship/assets/Pasted image 20240801113301.png",
-    "Internship/Learning C sharp/dotnet/minimal APIs.md",
-    "Internship/Learning C sharp/dotnet/index.md",
-    "Internship/Learning C sharp/dotnet/Controller Based/Making CRUD in Controller based APIs.md",
-    "Internship/Learning C sharp/dotnet/Controller Based/index.md",
-    "Internship/Learning C sharp/Data Structures/List.md",
-    "Internship/BootCamp/RESTful API and API Design best practices.md",
-    "Internship/assets/Pasted image 20240807154242.png",
-    "Internship/BootCamp/Lessons Learnt.md",
-    "Internship/BootCamp/Exercise 2.md",
-    "Internship/assets/Pasted image 20240805103123.png",
-    "Internship/BootCamp/Exercise 1.md",
-    "Internship/BootCamp/CRUD with EF Core.md",
-    "Internship/BootCamp/CRUD Queries with ADO.NET.md",
-    "Internship/BootCamp/Async Await.md",
-    "Internship/BootCamp/Architectures.md",
-    "Internship/assets/Pasted image 20240806081524.png",
-    "Internship/assets/Pasted image 20240806080639.png",
-    "Internship/assets/console n-layer architecture.png",
-    "Internship/assets",
-    "Internship/BootCamp/REST.md",
-    "Pasted image 20240804230006.png",
-    "SQA Correction.md",
-    "Internship/BootCamp/refactor prompt.md",
-    "Pasted image 20240804145516.png",
-    "Pasted image 20240804101230.png",
-    "Pasted image 20240803101038.png",
-    "Internship/Learning C sharp/oop/Classes.md",
-    "Internship/index.md",
-    "Internship/BootCamp",
-    "Internship/Learning C sharp/dotnet/Controller Based",
-    "Internship/Learning C sharp/strings.md",
-    "General/My Portfolio/Plan.canvas",
-    "Internship/Learning C sharp/dotnet",
-    "Uni Bro/22231/Network Communication/zaza.md",
-    "Internship/Learning C sharp/Data Structures",
-    "Internship/Learning C sharp",
-    "Internship",
-    "General/Untitled",
-    "Uni Bro/23242/Web Tech/vue",
-    "Uni Bro/23242/Web Tech/Final Prep"
+    "BootCamp/RESTful API and API Design best practices.md",
+    "BootCamp/Exercise 1.md",
+    "BootCamp/Architectures.md",
+    "BootCamp/Async Await.md",
+    "BootCamp/CRUD Queries with ADO.NET.md",
+    "BootCamp/Exercise 2.md",
+    "index.md"
   ]
 }

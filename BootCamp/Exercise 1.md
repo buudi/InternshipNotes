@@ -43,6 +43,9 @@ Building a Menu-Driven Console Application in C#
 
 ## Implementation Plan
 
+### Architecture
+![[console n-layer architecture.png]]
+
 ### Rough Requirements
 display a menu :
 1. List Movies
