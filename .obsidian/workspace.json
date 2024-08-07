@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BootCamp/RESTful API and API Design best practices.md",
+                "file": "BootCamp/Exercise 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d71ec259a0a74a3c",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BootCamp/Exercise 1.md",
+                "file": "BootCamp/Exercise 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BootCamp/Exercise 1.md"
+                "file": "BootCamp/Exercise 4.md"
               }
             }
           },
@@ -200,12 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fbdf259e524d168",
+  "active": "e721ed1657f75587",
   "lastOpenFiles": [
+    "BootCamp/Async Await.md",
+    "BootCamp/Exercise 4.md",
     "BootCamp/RESTful API and API Design best practices.md",
     "BootCamp/Exercise 1.md",
     "BootCamp/Architectures.md",
-    "BootCamp/Async Await.md",
     "BootCamp/CRUD Queries with ADO.NET.md",
     "BootCamp/Exercise 2.md",
     "index.md"

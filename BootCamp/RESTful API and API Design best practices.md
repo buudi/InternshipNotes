@@ -1,4 +1,4 @@
-resources:
+sources:
 - [RESTful API - TechTarget](https://www.techtarget.com/searchapparchitecture/definition/RESTful-API)
 - [RESTful Web API Design - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [The Web API Checklist: designing, testing and releasing - Mathieu Fenniak](https://mathieu.fenniak.net/the-api-checklist/)

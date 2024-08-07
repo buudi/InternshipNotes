@@ -1,0 +1,7 @@
+- Refactor your code (MoviesMenuAPI) to Implement dependency Injection for DB context and services
+	- call the context within the movie service, not directly from controller
+		- this way cleaner arch, controller relies on movie service (business logic layer), movie service relies on DbContext (data access layer)
+			- then our controller becomes what we call a thin controller, all it does is that it serves as an entry point for API calls (only)
+- Learn MVC.
+- make a page that returns a list of all movies.
+- use layouts and partial views.
