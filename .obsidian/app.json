@@ -12,5 +12,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attatchments"
 }
