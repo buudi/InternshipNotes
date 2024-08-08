@@ -38,5 +38,4 @@ services.AddDbContext<ApplicationDbContext>(
 ```c#
 var movies = _dbContext.Movies.AsNoTracking().ToList();
 ```
--  adding `AsNoTracking()` will make EF Core not track this call (we dont need tracking here since listing all movies is read only, i.e. we don't need to modify it) this improves performance.
-
+-  adding `AsNoTracking()` will make EF Core not track this call (we don't need tracking here since listing all movies is read only, i.e. we don't need to modify it) this improves performance.

@@ -15,15 +15,10 @@
 - [Learn MVC and templating with Razor .](https://dotnettutorials.net/lesson/introduction-asp-net-core-mvc/)
 	- make a page that returns a list of all movies.
 	- use [layouts](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-8.0)
-
-
-
-## Not Completed
-- [partial views](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-8.0).
+	- [partial views](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-8.0).
 - learn [HTTP fundamentals](https://dev.to/temiogundeji/http-the-fundamentals-339c)
-
 ## Deadline
 - Internal Deadline: By Thursday 8th August
-	- Client Deadline: By Friday 9th August
+- Client Deadline: By Friday 9th August
 
 
