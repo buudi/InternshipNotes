@@ -38,8 +38,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BootCamp/Exercise 5.md",
-                "mode": "source",
+                "file": "BootCamp/Exercise 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -205,13 +205,15 @@
   },
   "active": "4e8bbf20f5939a12",
   "lastOpenFiles": [
-    "BootCamp/Async Await.md",
+    "BootCamp/Exercise 1.md",
+    "BootCamp/Exercise 2.md",
+    "BootCamp/Architectures.md",
     "BootCamp/Exercise 5.md",
     "BootCamp/Lessons Learnt.md",
     "BootCamp/RESTful API and API Design best practices.md",
+    "BootCamp/Async Await.md",
     "BootCamp/MVC.md",
     "BootCamp/CRUD Queries with ADO.NET.md",
-    "BootCamp/Exercise 1.md",
     "Learning C sharp/dotnet/Controller Based/index.md",
     "Learning C sharp/index.md",
     "assets/Pasted image 20240808120556.png",
@@ -220,8 +222,6 @@
     "attatchments/Pasted image 20240808120446.png",
     "index.md",
     "BootCamp/Dependency Injection.md",
-    "BootCamp/Architectures.md",
-    "Learning C sharp/dotnet/Controller Based/Making CRUD in Controller based APIs.md",
-    "BootCamp/Exercise 2.md"
+    "Learning C sharp/dotnet/Controller Based/Making CRUD in Controller based APIs.md"
   ]
 }

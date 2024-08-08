@@ -39,3 +39,5 @@ services.AddDbContext<ApplicationDbContext>(
 var movies = _dbContext.Movies.AsNoTracking().ToList();
 ```
 -  adding `AsNoTracking()` will make EF Core not track this call (we don't need tracking here since listing all movies is read only, i.e. we don't need to modify it) this improves performance.
+- why there exists no `RemoveAsync()` ? for `DbContext`?
+
