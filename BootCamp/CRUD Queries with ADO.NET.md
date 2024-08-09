@@ -1,8 +1,28 @@
+[Link given by Arif](https://community.ibm.com/community/user/powerdeveloper/blogs/sapana-khemkar/2023/03/28/connect-dotnet-app-sql-db-on-ibm-power)
 
 My Connection String (work laptop): 
-- `Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;`
-- `Server=localhost\SQLEXPRESS;Database=MyBootcamp;User Id=Bootcamp;Password=password;TrustServerCertificate=True;`
+- `Server=localhost\SQLEXPRESS;Database=MyBootcamp;Trusted_Connection=True;TrustServerCertificate=True;`
+
 - [More connection string formats](https://www.connectionstrings.com/sql-server/)
+
+
+## Task:
+use your code from exercise 1
+feedback for exercise 1: refactor your code (use a separate class  for console services)
+
+
+Set up MS SQL database, connect it to the console app
+and make a table for the movies.
+	
+- use the database instead of the local structures.
+- use ADO.Net (for now don't use EF Core).
+- Ensure parametrization and use of best practices throughout the program.
+
+SQL Auto Increment in MSSQL:
+`Id int NOT NULL IDENTITY(1,1) PRIMARY KEY`
+
+
+![[Pasted image 20240805103123.png]]
 ### 1. Adding ADO.NET to the Project
 
 ```bash

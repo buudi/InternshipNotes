@@ -76,6 +76,8 @@ has 8 overrides, for this section we use `Task<T>`
 > 
 > **Always check what you are referring!**!
 
+Just Follow [`DbSet<TEntity>`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1?view=efcore-8.0)
+
 #### Get all
 ```csharp
 [HttpGet]

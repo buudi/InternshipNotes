@@ -8,7 +8,7 @@ To Watch
 - [Exception Handling](https://www.youtube.com/watch?v=aBMfdTNwKBI) 
 
 ## 6/8/2024 Tuesday
-- Two approaches to databases in ASP.Net
+- Two approaches to databases in ASP .NET
 	- Db-First approach, we make the database and create the tables in SSMS
 	- Code-First approach:
 		- generate SQL from models
@@ -20,7 +20,7 @@ To Watch
 - when to use `Find()` and `FirstOrDefault()` - [Reddit](https://www.reddit.com/r/dotnet/comments/1bvjubg/employ_the_usage_of_find_instead_of/)
 - When reading docs: don't confuse between dotnet framework and dotnet core, and don't confuse between entity framework and entity framework core, its not the same bruhh
 	- prefix your class with `sealed` when you know for sure your class won't be inherited by any other class, it improves performance.
-- `using` statement automatically disposes of the connection in dbContext, read more about [`IDisposable`]() (SqlConnection inherits from DbConnection which implements IDisposable)
+- `using` statement automatically disposes of the connection in `DbContext`, read more about [`IDisposable`]() (`SqlConnection` inherits from `DbConnection` which implements `IDisposable`)
 - C# primary constructor, is when we define the arguments right in the definition, the top line basically
 
 ## 8/8/2024 Thursday
@@ -40,4 +40,16 @@ var movies = _dbContext.Movies.AsNoTracking().ToList();
 ```
 -  adding `AsNoTracking()` will make EF Core not track this call (we don't need tracking here since listing all movies is read only, i.e. we don't need to modify it) this improves performance.
 - why there exists no `RemoveAsync()` ? for `DbContext`?
+
+## 9/8/2024 Friday
+- You shouldn't really be using `AddAsync()`, [here is why](https://stackoverflow.com/a/42042173)
+	- here is the explanation from Microsoft Docs:
+	> 	*This method is async only to allow special value generators, such as the one used by 'Microsoft.EntityFrameworkCore.Metadata.SqlServerValueGenerationStrategy.SequenceHiLo', to access the database asynchronously. For all other cases the non async method should be used.*
+	- The same thing applies to `Update` and `Remove`, just use the non async method
+
+
+
+
+
+
 
